@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MachViewTool::Renderer.copyright 'Maciej Hyrycz', 'Wszelkie prawa zastrzeżone'
+```
 
 ## Development
 
